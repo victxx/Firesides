@@ -1,0 +1,11 @@
+{
+  "name": "firesides-blockchain",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "scripts": {
+    "deploy": "node scripts/deploy.js"
+  }
+} 

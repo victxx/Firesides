@@ -1,0 +1,13 @@
+{
+  "name": "firesides",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "blockchain",
+    "backend"
+  ],
+  "scripts": {
+    "start": "echo 'Start the project by choosing a workspace: frontend, blockchain, or backend.'"
+  }
+} 
